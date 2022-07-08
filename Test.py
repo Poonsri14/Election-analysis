@@ -12,8 +12,3 @@ elif score >= 60:
     print('Your grade is a D.')
 else:
     print('Your grade is an F.')
-
-x = 0
-while x <= 5:
-    print(x)
-    x = x + 1
