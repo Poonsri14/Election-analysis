@@ -21,17 +21,21 @@ The election commission has requested to complete the election audit analysis:
 - The county with the largest number of voters.
 
 
-## Election-Audit Results: 
+## Election-Audit Results
 
-    ### Election Results
 
 ![Election Results](https://github.com/Poonsri14/Election-analysis/blob/main/Resources/printed_to_election_results.png)
 
-- According to the image above, the total of votes cast in this congressional election were 369,711, which were Denver: 82.8% (306,055), Jefferson: 10.5% (38,855), and Arapahoe: 6.7% (24,801). Denver had the largest number of vertes. Diana DeGette won the election which the total votes of 73.8% or 272,892 vote count, Charles Casper Stockham had total votes of 23.0% or 85,213 vote count, and folloing by Raymon Anthony Doane had the total votes of 3.1% or 11,606 vote count.
+According to the image above, the total of votes cast in this congressional election were 369,711, which were Denver: 82.8% (306,055), Jefferson: 10.5% (38,855), and Arapahoe: 6.7% (24,801). Denver had the largest number of vertes. Diana DeGette won the election which the total votes of 73.8% or 272,892 vote counts, Charles Casper Stockham had total votes of 23.0% or 85,213 vote counts, and folloing by Raymon Anthony Doane had the total votes of 3.1% or 11,606 vote counts.
+
+## Code Example
+
+![printed code to terminal](https://github.com/Poonsri14/Election-analysis/blob/main/Resources/Printed_to_terminal.png)
 
 
 ## Election-Audit Summary
 
-Based on this election audit analysis, the code can be modified to be used for other elections. For example, having data set that similar to this election, making an automated on website for real time election update, or turning the results to graphs/charts.
+Based on this election audit analysis, the code can be modified to be used for other elections. For example, having data set that similar to this election to analysis any relaventively outcomes, making an automated on website for real time election update, or turning the results to graphs/charts.
+
 
 
