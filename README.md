@@ -26,7 +26,7 @@ The election commission has requested to complete the election audit analysis:
 
 ![Election Results](https://github.com/Poonsri14/Election-analysis/blob/main/Resources/printed_to_election_results.png)
 
-According to the image above, the total of votes cast in this congressional election were 369,711, which were Denver: 82.8% (306,055), Jefferson: 10.5% (38,855), and Arapahoe: 6.7% (24,801). Denver had the largest number of vertes. Diana DeGette won the election which the total votes of 73.8% or 272,892 vote counts, Charles Casper Stockham had total votes of 23.0% or 85,213 vote counts, and folloing by Raymon Anthony Doane had the total votes of 3.1% or 11,606 vote counts.
+According to the image above, the total of votes cast in this congressional election were 369,711, which were Denver: 82.8% (306,055), Jefferson: 10.5% (38,855), and Arapahoe: 6.7% (24,801). Denver had the largest number of voters. Diana DeGette won the election which the total votes of 73.8% or 272,892 vote count, Charles Casper Stockham had total votes of 23.0% or 85,213 vote count, and folloing by Raymon Anthony Doane had the total votes of 3.1% or 11,606 vote count.
 
 ## Code Example
 
